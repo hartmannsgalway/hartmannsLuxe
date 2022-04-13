@@ -1,0 +1,14 @@
+{
+  "sections": {
+    "banner": {
+      "type": "banner"
+    },
+    "main": {
+      "type": "search__main"
+    }
+  },
+  "order": [
+    "banner",
+    "main"
+  ]
+}

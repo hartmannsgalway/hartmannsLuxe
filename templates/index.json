@@ -1,0 +1,383 @@
+{
+  "sections": {
+    "1557099063267": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "1557099063267-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/luxe__iwt-01.jpg",
+            "image_crop": "none",
+            "image_link": ""
+          }
+        },
+        "1557099063267-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/luxe__iwt-02.jpg",
+            "image_crop": "none",
+            "image_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1557099063267-1",
+        "1557099063267-0"
+      ],
+      "settings": {
+        "width": "wide",
+        "show_gutter": false,
+        "padding_top": 0,
+        "padding_bottom": 20,
+        "animation": "fadeInDown",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1558066017215": {
+      "type": "index__rich-text",
+      "settings": {
+        "title": "Luxe Bridal",
+        "heading_font": "monotype_bodoni_n4",
+        "heading_color": "#897358",
+        "heading_alignment": "center",
+        "heading_size": 33,
+        "text": "<p>Our extraordinary diamonds are chosen with care<br/>to celebrate a love, a hope and a passion.</p>",
+        "text_font": "optima_nova_n4",
+        "text_color": "rgba(0,0,0,0)",
+        "text_alignment": "center",
+        "text_size": 16,
+        "columns": 1,
+        "button_label": "SHOP BRIDAL",
+        "button_link": "shopify://collections/engagement-rings",
+        "button_alignment": "center",
+        "button_style": "button--primary",
+        "background": "#ffffff",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 180,
+        "width": "half",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "fadeInDown",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1558066289083": {
+      "type": "index__rich-text",
+      "settings": {
+        "title": "Luxe Classic",
+        "heading_font": "monotype_bodoni_n4",
+        "heading_color": "#897358",
+        "heading_alignment": "center",
+        "heading_size": 33,
+        "text": "<p>Elegant and timeless jewels.<br/>Effortlessly beautiful and classically inspired.</p>",
+        "text_font": "optima_nova_n4",
+        "text_color": "rgba(0,0,0,0)",
+        "text_alignment": "center",
+        "text_size": 16,
+        "columns": 1,
+        "button_label": "SHOP CLASSIC",
+        "button_link": "shopify://collections/rings",
+        "button_alignment": "center",
+        "button_style": "button--primary",
+        "background": "rgba(0,0,0,0)",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 180,
+        "width": "half",
+        "padding_top": 20,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "fadeInDown",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1558068092436": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "1558068164115": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/luxe__iwt-03.jpg",
+            "image_crop": "none",
+            "image_link": ""
+          }
+        },
+        "1558068171365": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/luxe__iwt-04.jpg",
+            "image_crop": "none",
+            "image_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1558068164115",
+        "1558068171365"
+      ],
+      "settings": {
+        "width": "wide",
+        "show_gutter": false,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "fadeInDown",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1558069285766": {
+      "type": "index__rich-text",
+      "settings": {
+        "title": "Timepieces",
+        "heading_font": "monotype_bodoni_n4",
+        "heading_color": "#897358",
+        "heading_alignment": "center",
+        "heading_size": 35,
+        "text": "<p>Outstanding timepieces for sophisticated men and women.</p>",
+        "text_font": "optima_nova_n4",
+        "text_color": "rgba(0,0,0,0)",
+        "text_alignment": "center",
+        "text_size": 16,
+        "columns": 1,
+        "button_label": "SHOP WATCHES",
+        "button_link": "shopify://collections/watches",
+        "button_alignment": "center",
+        "button_style": "button--primary",
+        "background": "rgba(0,0,0,0)",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 180,
+        "width": "half",
+        "padding_top": 20,
+        "padding_bottom": 30,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "fadeInDown",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1558069538552": {
+      "type": "index__rich-text",
+      "settings": {
+        "title": "Men's Collection",
+        "heading_font": "monotype_bodoni_n4",
+        "heading_color": "#897358",
+        "heading_alignment": "center",
+        "heading_size": 33,
+        "text": "<p>Powerful, show-stopping designs for the man who has everything.</p>",
+        "text_font": "optima_nova_n4",
+        "text_color": "rgba(0,0,0,0)",
+        "text_alignment": "center",
+        "text_size": 16,
+        "columns": 1,
+        "button_label": "SHOP MEN",
+        "button_link": "shopify://collections/mens-rings",
+        "button_alignment": "center",
+        "button_style": "button--primary",
+        "background": "rgba(0,0,0,0)",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 180,
+        "width": "half",
+        "padding_top": 20,
+        "padding_bottom": 30,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "fadeInDown",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1558069844372": {
+      "type": "index__rich-text",
+      "settings": {
+        "title": "The 2021 Engagement Collection",
+        "heading_font": "monotype_bodoni_n4",
+        "heading_color": "#897358",
+        "heading_alignment": "center",
+        "heading_size": 33,
+        "text": "<p>This is a special new limited edition collection that has just arrived. <a href=\"/pages/about-us\" title=\"About Us\">Book a viewing</a> soon or shop online before it&#x27;s gone.</p><p></p>",
+        "text_font": "optima_nova_n4",
+        "text_color": "rgba(0,0,0,0)",
+        "text_alignment": "center",
+        "text_size": 16,
+        "columns": 1,
+        "button_label": "",
+        "button_link": "",
+        "button_alignment": "center",
+        "button_style": "button--primary",
+        "background": "rgba(0,0,0,0)",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 180,
+        "width": "wide",
+        "padding_top": 34,
+        "padding_bottom": 35,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "fadeInDown",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1562260433037": {
+      "type": "index__featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "engagement-rings",
+        "products_per": 5,
+        "mobile_products_per_row": "1",
+        "products_limit": 6,
+        "align_height": false,
+        "collection_height": 200,
+        "collection_style": "slider",
+        "width": "wide",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1562260827944": {
+      "type": "index__video",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "autoplay": false,
+        "autoloop": true,
+        "mute_video": false,
+        "controls": true,
+        "iframe_video": "https://www.youtube.com/watch?v=Ze7xsy9tVVQ",
+        "html5_video": "",
+        "image": "shopify://shop_images/luxe__video-01.jpg",
+        "pretext": "Explore the latest collection",
+        "title": "Timeless and luxurious, available now in-store and online",
+        "subtitle": "",
+        "pretext_color": "#ba9b75",
+        "heading_color": "#ffffff",
+        "subheading_color": "#ffffff",
+        "horizontal_text_position": "left",
+        "vertical_text_position": "end",
+        "text_align": "left",
+        "button_label": "Play video",
+        "button_style": "button--primary",
+        "overlay_style": "none",
+        "video_overlay_color": "#ffffff",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 180,
+        "background_opacity": 77,
+        "text_width": 40,
+        "mobile_text_below_video": true,
+        "pretext_color_mobile": "rgba(0,0,0,0)",
+        "heading_color_mobile": "#040303",
+        "subheading_color_mobile": "rgba(0,0,0,0)",
+        "width": "wide",
+        "padding_top": 20,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1569425826481": {
+      "type": "index__slideshow-classic",
+      "blocks": {
+        "1569425826481-0": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify://shop_images/luxe__slide-01.jpg",
+            "pretext": "<p>IN STUNNING FORM</p>",
+            "title": "The Latest from the House",
+            "subtitle": "<p>Discover all that’s new, brilliant and beautiful in our world.</p>",
+            "pretext_color": "#ffffff",
+            "heading_color": "#000000",
+            "subheading_color": "#000000",
+            "text_alignment": "center",
+            "text_horizontal_position": "right",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": 40,
+            "button_1": "LEARN MORE",
+            "button_1_link": "shopify://collections/new",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#000000",
+            "heading_color_mobile": "#000000",
+            "subheading_color_mobile": "#000000"
+          }
+        },
+        "1569425826481-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify://shop_images/luxe__slide-02.jpg",
+            "pretext": "",
+            "title": "The Time is Now",
+            "subtitle": "<p>Stunning chronograph watches for every occasion.</p>",
+            "pretext_color": "#ffffff",
+            "heading_color": "#ffffff",
+            "subheading_color": "#ffffff",
+            "text_alignment": "center",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": 40,
+            "button_1": "SHOP NOW",
+            "button_1_link": "shopify://collections/watches",
+            "button_1_style": "button--primary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#000000",
+            "heading_color_mobile": "#000000",
+            "subheading_color_mobile": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "1569425826481-0",
+        "1569425826481-1"
+      ],
+      "settings": {
+        "image_transition": "fade",
+        "image_slideshow_speed": 3,
+        "show_arrows": false,
+        "show_nav_buttons": true,
+        "mobile_text_below_image": true,
+        "width": "wide",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "1569425826481",
+    "1562260433037",
+    "1558069844372",
+    "1557099063267",
+    "1558066289083",
+    "1558066017215",
+    "1558068092436",
+    "1558069538552",
+    "1558069285766",
+    "1562260827944"
+  ]
+}

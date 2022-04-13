@@ -1,0 +1,36 @@
+{
+  "layout": "quickshop",
+  "sections": {
+    "main": {
+      "type": "quickshop",
+      "settings": {},
+      "blocks": {
+        "title": {
+          "type": "title"
+        },
+        "price": {
+          "type": "price"
+        },
+        "description": {
+          "type": "description"
+        },
+        "form": {
+          "type": "form"
+        },
+        "share": {
+          "type": "share"
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "description",
+        "form",
+        "share"
+      ]
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

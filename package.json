@@ -1,0 +1,43 @@
+{
+  "name": "Flex",
+  "scripts": {
+    "buildStyles": " node build_tools/compileCss.js source/styles/gift-card.css assets/gift-card.css.liquid && node build_tools/compileCss.js source/styles/styles.css assets/styles.css.liquid ",
+    "buildScripts": "gulp build_scripts",
+    "watch": "gulp watch"
+  },
+  "dependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@csstools/postcss-sass": "4.0.0",
+    "@shopify/theme-addresses": "^4.1.1",
+    "all-node-versions": "^9.0.0",
+    "autoprefixer": "^9.8.6",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-changed": "^3.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-exec": "^3.0.2",
+    "gulp-rename": "^1.4.0",
+    "gulp-watch": "^5.0.1",
+    "postcss": "7.0.35",
+    "postcss-easy-import": "3.0.0",
+    "postcss-fail-on-warn": "0.1.0",
+    "postcss-scss": "3.0.4",
+    "postcss-strip-inline-comments": "0.1.5",
+    "require-dir": "^1.2.0",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.1.2",
+    "vinyl-named": "^1.1.0",
+    "webpack": "^5.30.0",
+    "webpack-stream": "^6.1.2"
+  },
+  "browserslist": [
+    "last 2 Android major versions",
+    "last 2 Safari major versions",
+    "last 2 Edge major versions",
+    "last 2 iOS major versions",
+    "last 3 Chrome major versions",
+    "last 3 Firefox major versions",
+    "last 3 ChromeAndroid major versions",
+    "last 3 Samsung major versions"
+  ]
+}

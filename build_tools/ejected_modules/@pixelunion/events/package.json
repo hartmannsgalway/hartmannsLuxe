@@ -1,0 +1,34 @@
+{
+  "name": "@pixelunion/events",
+  "version": "1.0.0",
+  "description": "Events handler to manage event listeners",
+  "main": "dist/EventHandler.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixelunion/events.git"
+  },
+  "scripts": {
+    "build": "tsc src/EventHandler.ts --outDir dist"
+  },
+  "keywords": [
+    "event",
+    "events",
+    "listener"
+  ],
+  "author": "Pixel Union",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pixelunion/events/issues"
+  },
+  "homepage": "https://github.com/pixelunion/events#readme",
+  "dependencies": {
+    "typescript": "^3.6.3"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+
+,"_resolved": "https://npm.pkg.github.com/download/@pixelunion/events/1.0.0/79e111334a264755a529f9db9a936e31e1be583499a763c8fa82f501e30f10e1"
+,"_integrity": "sha512-U3ACHAw6ZTiGdiBbf9EZ9nfAwOjwf6axls+uX+bvDJ/yjfVJlWT6mU6hDIJwN4x1KHYOB0BEEOlqBavTVv2JMA=="
+,"_from": "@pixelunion/events@1.0.0"
+}
