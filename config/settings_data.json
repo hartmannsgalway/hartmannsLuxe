@@ -59,7 +59,7 @@
     "breadcrumb_capitalization": "none",
     "breadcrumb_separator": "caret",
     "breadcrumb_size": "regular",
-    "dropdown_style": "vertical",
+    "dropdown_style": "horizontal",
     "dropdown_position": "below-parent",
     "dropdown_link_spacing": "medium",
     "use_placeholders": false,
