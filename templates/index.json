@@ -78,9 +78,9 @@
             "subheading_color": "#000000",
             "text_alignment": "center",
             "text_horizontal_position": "center",
-            "background_color": "#FFFFFF",
+            "background_color": "#ffffff",
             "background_opacity": 77,
-            "border_color": "#FFFFFF",
+            "border_color": "#ffffff",
             "border_width": 0,
             "text_width": 40,
             "button_1": "Button 1",
@@ -108,9 +108,9 @@
             "subheading_color": "#000000",
             "text_alignment": "center",
             "text_horizontal_position": "center",
-            "background_color": "#FFFFFF",
+            "background_color": "#ffffff",
             "background_opacity": 77,
-            "border_color": "#FFFFFF",
+            "border_color": "#ffffff",
             "border_width": 0,
             "text_width": 40,
             "button_1": "Button 1",
@@ -203,7 +203,7 @@
         "1557099063267-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/fab-hp-hartmenns-1.jpg",
+            "image": "shopify:\/\/shop_images\/luxe__megamenu-03_800x_1.jpg",
             "image_crop": "none",
             "image_link": "shopify:\/\/products\/faberge-colours-of-love-rose-gold-multicoloured-gemstone-set-fluted-ring-847rg2286"
           }
