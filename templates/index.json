@@ -149,13 +149,13 @@
     "1562260433037": {
       "type": "index__featured-collection",
       "settings": {
-        "title": "",
-        "collection": "engagement-rings",
+        "title": "FEATURED PRODUCTS",
+        "collection": "watches",
         "products_per": 5,
         "mobile_products_per_row": "1",
-        "products_limit": 6,
+        "products_limit": 5,
         "align_height": false,
-        "collection_height": 200,
+        "collection_height": 360,
         "collection_style": "slider",
         "width": "wide",
         "show_gutter": true,
