@@ -530,7 +530,7 @@
         "type": "header-centered__top-bar",
         "settings": {
           "show_social_icons": false,
-          "text": "<p><a href=\"\/pages\/contact\" title=\"Contact\"><em>Contact us<\/em><\/a><em> or call 1-888-VIP-5555 for custom fit enquiries<\/em><\/p>",
+          "text": "<p><a href=\"\/pages\/contact\" title=\"Contact\"><em>Contact us<\/em><\/a><em> or call <\/em>091 562 063<em> for custom fit enquiries<\/em><\/p>",
           "show_locale_selector": true,
           "show_currency_selector": true,
           "font": "optima_nova_n4",
