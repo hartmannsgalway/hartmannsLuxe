@@ -67,6 +67,7 @@
         },
         "2d4e22ee-2c7b-4c24-ba88-928627fc4370": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "link": "",
             "pretext": "<p>Preheading<\/p>",
@@ -96,6 +97,7 @@
         },
         "82b72097-b1e4-4a80-bd7d-2466232d095e": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "link": "",
             "pretext": "<p>Preheading<\/p>",
