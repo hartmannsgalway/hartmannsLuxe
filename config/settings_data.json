@@ -475,8 +475,9 @@
           "footer-classic-0": {
             "type": "logo",
             "settings": {
-              "size": "small",
-              "text": "<p><a href=\"\/pages\/about-us\" title=\"About Us\"><em>Contact us<\/em><\/a><em> or call <\/em><em><strong>1-888-VIP-5555<\/strong><\/em><em> for custom fit enquiries<\/em><\/p>",
+              "logo": "shopify:\/\/shop_images\/logohome.jpg",
+              "size": "large",
+              "text": "<p><a href=\"\/pages\/contact\" title=\"Contact\"><em>Contact us<\/em><\/a><em> or call <\/em><em><strong>091 562 063 <\/strong><\/em><em>for custom fit enquiries<\/em><\/p>",
               "social_icons_footer": true
             }
           },
