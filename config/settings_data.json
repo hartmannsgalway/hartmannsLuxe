@@ -557,7 +557,7 @@
           "logo_position": "above",
           "main_linklist": "main-menu",
           "menu_spacing": "default",
-          "dropdown_click": false,
+          "dropdown_click": true,
           "enable_overlay": false,
           "show_text_shadow": false,
           "overlay_background": "rgba(0,0,0,0)",
