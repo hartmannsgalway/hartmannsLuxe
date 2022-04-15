@@ -569,7 +569,7 @@
           "display_search": true,
           "sticky_background_opacity": 50,
           "scroll_logo_width": 200,
-          "width": "standard",
+          "width": "wide",
           "css_class": "",
           "custom_css": ""
         }
