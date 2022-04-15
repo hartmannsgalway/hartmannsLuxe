@@ -211,8 +211,8 @@
         "1557099063267-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mb-collection-np.jpg",
-            "image_crop": "none",
+            "image": "shopify:\/\/shop_images\/fab-hp-hartmenns-1.jpg",
+            "image_crop": "right",
             "image_link": "shopify:\/\/products\/marco-bicego-jaipur-necklet"
           }
         }
