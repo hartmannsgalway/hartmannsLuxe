@@ -38,9 +38,11 @@
           "type": "image",
           "settings": {
             "link": "",
+            "image": "shopify:\/\/shop_images\/1556-UK-2203157_RichardHartmann_Seastar1000_2160x660-right.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/1556-UK-2203157_RichardHartmann_Seastar1000_2160x660-right.jpg",
             "pretext": "",
             "title": "The Time is Now",
-            "subtitle": "<p>Stunning chronograph watches for every occasion.<\/p>",
+            "subtitle": "",
             "pretext_color": "#ffffff",
             "heading_color": "#ffffff",
             "subheading_color": "#ffffff",
@@ -51,7 +53,7 @@
             "border_color": "#ffffff",
             "border_width": 0,
             "text_width": 40,
-            "button_1": "SHOP NOW",
+            "button_1": "",
             "button_1_link": "shopify:\/\/collections\/watches",
             "button_1_style": "button--primary",
             "button_2": "",
@@ -62,11 +64,71 @@
             "heading_color_mobile": "#000000",
             "subheading_color_mobile": "#000000"
           }
+        },
+        "2d4e22ee-2c7b-4c24-ba88-928627fc4370": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "pretext": "<p>Preheading<\/p>",
+            "title": "Classic slideshow",
+            "subtitle": "<p>Additional info in the subheading<\/p>",
+            "pretext_color": "#000000",
+            "heading_color": "#000000",
+            "subheading_color": "#000000",
+            "text_alignment": "center",
+            "text_horizontal_position": "center",
+            "background_color": "#FFFFFF",
+            "background_opacity": 77,
+            "border_color": "#FFFFFF",
+            "border_width": 0,
+            "text_width": 40,
+            "button_1": "Button 1",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "Button 2",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        },
+        "82b72097-b1e4-4a80-bd7d-2466232d095e": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "pretext": "<p>Preheading<\/p>",
+            "title": "Classic slideshow",
+            "subtitle": "<p>Additional info in the subheading<\/p>",
+            "pretext_color": "#000000",
+            "heading_color": "#000000",
+            "subheading_color": "#000000",
+            "text_alignment": "center",
+            "text_horizontal_position": "center",
+            "background_color": "#FFFFFF",
+            "background_opacity": 77,
+            "border_color": "#FFFFFF",
+            "border_width": 0,
+            "text_width": 40,
+            "button_1": "Button 1",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "Button 2",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
         }
       },
       "block_order": [
         "1569425826481-0",
-        "1569425826481-1"
+        "1569425826481-1",
+        "2d4e22ee-2c7b-4c24-ba88-928627fc4370",
+        "82b72097-b1e4-4a80-bd7d-2466232d095e"
       ],
       "settings": {
         "image_transition": "fade",
