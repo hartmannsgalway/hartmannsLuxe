@@ -552,6 +552,7 @@
       "header-centered": {
         "type": "header-centered",
         "settings": {
+          "logo": "shopify:\/\/shop_images\/logohome.jpg",
           "logo_width": 200,
           "logo_position": "above",
           "main_linklist": "main-menu",
