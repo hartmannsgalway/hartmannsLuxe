@@ -365,8 +365,8 @@
           "1558134716363": {
             "type": "menu",
             "settings": {
-              "menu_1": "top-menu",
-              "menu_1_link": "shopify:\/\/collections"
+              "menu_1": "",
+              "menu_1_link": ""
             }
           },
           "mega-menu-1-0": {
