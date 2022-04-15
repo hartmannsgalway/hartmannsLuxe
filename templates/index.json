@@ -174,7 +174,7 @@
         "heading_color": "#897358",
         "heading_alignment": "center",
         "heading_size": 33,
-        "text": "<p>This is a special new limited edition collection that has just arrived. <a href=\"\/pages\/about-us\" title=\"About Us\">Book a viewing<\/a> soon or shop online before it&#x27;s gone.<\/p><p><\/p>",
+        "text": "<p>This is a special new limited edition collection that has just arrived. <a href=\"\/pages\/about-us\" title=\"About Us\">Book a viewing<\/a> soon or shop online before it's gone.<\/p><p><\/p>",
         "text_font": "optima_nova_n4",
         "text_color": "rgba(0,0,0,0)",
         "text_alignment": "center",
@@ -203,8 +203,9 @@
         "1557099063267-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/fab-hp-hartmenns-1.jpg",
             "image_crop": "none",
-            "image_link": ""
+            "image_link": "shopify:\/\/products\/faberge-colours-of-love-rose-gold-multicoloured-gemstone-set-fluted-ring-847rg2286"
           }
         },
         "1557099063267-0": {
