@@ -211,8 +211,9 @@
         "1557099063267-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/mb-collection-np.jpg",
             "image_crop": "none",
-            "image_link": ""
+            "image_link": "shopify:\/\/products\/marco-bicego-jaipur-necklet"
           }
         }
       },
